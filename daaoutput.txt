@@ -1,3 +1,5 @@
+Each line is NCH A before DAA followed by the result of NCH A processed by DAA for that input.
+
 N 0 C 0 H 0 00 N 0 C 0 H 0 00 
 N 0 C 0 H 0 01 N 0 C 0 H 0 01 
 N 0 C 0 H 0 02 N 0 C 0 H 0 02 
